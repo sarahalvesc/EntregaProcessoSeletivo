@@ -9,10 +9,10 @@ Estudo de Caso:
 A variável ‘abcr_leves’ no dataset em anexo traz informação sobre o Índice
 ABCR nos últimos anos. Esse índice foi calculado com base no fluxo de veículos leves
 que passaram pelas praças pedagiadas no Brasil. Além disso, no dataset
-foi disponibilizado diversas variáveis explicativas que foram utilizadas nas
+foram disponibilizadas diversas variáveis explicativas que foram utilizadas nas
 análises.
 Nesse estudo de caso o objetivo foi entender o comportamento da série temporal
-Índice ABCR e realizar projeções até o final de 2030. Minha análise inclui:
+Índice ABCR e realizar projeções até o final de 2030. A análise inclui:
 - Análise exploratoria dos dados, principalmente da variável de interesse
 (abcr_leves)
 - Projeção para a série ‘abcr_leves’ até 12/2030.
