@@ -38,7 +38,7 @@ Siga estas etapas para configurar e executar o projeto em sua máquina:
 
 2. Navegue até o diretório do projeto:
 
-cd EntregaProcessoSeletivo
+   cd EntregaProcessoSeletivo
 
 # Executando o Projeto
 Inicie o Jupyter Notebook:
